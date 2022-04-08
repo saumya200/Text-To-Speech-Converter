@@ -1,0 +1,8 @@
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\obj\Debug\text_to_speech_converter.csproj.AssemblyReference.cache
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\obj\Debug\text_to_speech_converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\obj\Debug\text_to_speech_converter.csproj.CoreCompileInputs.cache
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\bin\Debug\text_to_speech_converter.exe.config
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\bin\Debug\text_to_speech_converter.exe
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\bin\Debug\text_to_speech_converter.pdb
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\obj\Debug\text_to_speech_converter.exe
+C:\Users\SAUMYA REDDY PC\OneDrive\Desktop\C#\text_to_speech_converter\obj\Debug\text_to_speech_converter.pdb
